@@ -1,0 +1,17 @@
+Chest
+Monster
+locked door
+merchant
+trap
+guard
+riddle
+treasure room
+fun little bs rune circle
+
+5 room Dungeon
+
+Entrance (Locked Door, Guard, Door, MOnster, Riddle, Merchnat)
+Boss (Monster (VArtiations of monster))
+Setback (Trap, Monster)
+Reward (Chest, Treasure room, trap?)
+Puzzle (Locked door, Chest, Riddle, Guard)
